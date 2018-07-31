@@ -1,0 +1,16 @@
+{
+    "name": "snusbro/delivery-calc",
+    "description": "Update delivery calculator",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "snusbro",
+            "email": "snusbro@gmail.com"
+        }
+    ],
+    "require": {
+        "php" : "^7.2",
+        "illuminate/support": "~5.6.0"
+    }
+}
